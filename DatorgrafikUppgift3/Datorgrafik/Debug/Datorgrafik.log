@@ -1,17 +1,18 @@
 ﻿  Support.cpp
   Datorgrafik.cpp
   Camera.cpp
-c:\users\rasmus\documents\visual studio 2013\projects\datorgrafikuppgift3\datorgrafik\quaternion.h(219): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  c:\users\rasmus\documents\visual studio 2013\projects\datorgrafikuppgift3\datorgrafik\quaternion.h(217): note: while compiling class template member function 'Quaternion<float>::Quaternion(T,const Vector3<T> &)'
+c:\users\rasmus\documents\visual studio 2015\projects\openglschoolwork\datorgrafikuppgift3\datorgrafik\quaternion.h(219): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\users\rasmus\documents\visual studio 2015\projects\openglschoolwork\datorgrafikuppgift3\datorgrafik\quaternion.h(217): note: while compiling class template member function 'Quaternion<float>::Quaternion(T,const Vector3<T> &)'
           with
           [
               T=float
           ]
-  c:\users\rasmus\documents\visual studio 2013\projects\datorgrafikuppgift3\datorgrafik\camera.cpp(60): note: see reference to function template instantiation 'Quaternion<float>::Quaternion(T,const Vector3<T> &)' being compiled
+  c:\users\rasmus\documents\visual studio 2015\projects\openglschoolwork\datorgrafikuppgift3\datorgrafik\camera.cpp(60): note: see reference to function template instantiation 'Quaternion<float>::Quaternion(T,const Vector3<T> &)' being compiled
           with
           [
               T=float
           ]
-  c:\users\rasmus\documents\visual studio 2013\projects\datorgrafikuppgift3\datorgrafik\camera.cpp(60): note: see reference to class template instantiation 'Quaternion<float>' being compiled
+  c:\users\rasmus\documents\visual studio 2015\projects\openglschoolwork\datorgrafikuppgift3\datorgrafik\camera.cpp(60): note: see reference to class template instantiation 'Quaternion<float>' being compiled
   Generating Code...
-  Datorgrafik.vcxproj -> C:\Users\Rasmus\Documents\Visual Studio 2013\Projects\DatorgrafikUppgift3\Debug\Datorgrafik.exe
+  LINK : C:\Users\Rasmus\Documents\Visual Studio 2015\Projects\OpenGLSchoolwork\DatorgrafikUppgift3\Debug\Datorgrafik.exe not found or not built by the last incremental link; performing full link
+  Datorgrafik.vcxproj -> C:\Users\Rasmus\Documents\Visual Studio 2015\Projects\OpenGLSchoolwork\DatorgrafikUppgift3\Debug\Datorgrafik.exe
